@@ -1,0 +1,1 @@
+# gitIgnoreSample
